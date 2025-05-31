@@ -1,7 +1,6 @@
 {
   "name": "ISLAMICK BOT",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
   "main": "Cyber.js",
   "engines": {
       "node": "20.x",
@@ -19,15 +18,9 @@
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
-      "messenger",
-      "javasvript",
-      "ullash",
-      "cyberullash",
-      "cyberRajib ",
-      "islamick chat bot"
+      "messenger"
   ],
-  "author": "Ullash ッ",
+  "author": "Debojit",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
